@@ -1,0 +1,38 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.enablePreview": false,
+  "files.autoSave": "off",
+  "window.zoomLevel": 0,
+  "workbench.editor.showTabs": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "cSpell.userWords": [
+    "Apisauce",
+    "DEVTOOLS",
+    "Fendt",
+    "Gigya",
+    "Odia",
+    "Pritter",
+    "ROBOTO",
+    "Reactotron",
+    "Signup",
+    "TSES",
+    "Unmount",
+    "formik"
+  ],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "workbench.tree.renderIndentGuides": "always",
+  "[javascript]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[typescriptreact]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[jsonc]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[json]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "editor.formatOnSave": true,
+  "[typescript]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "cSpell.enableFiletypes": ["!typescriptreact"]
+}
